@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\ListaSupermercado\\ListaSupermercado\\ListaSupermercado.csproj",
+      "projectUniqueName": "C:\\C#\\DesafioStone\\Desafio-Stone\\ListaSupermercado\\ListaSupermercado.csproj",
       "projectName": "ListaSupermercado",
-      "projectPath": "C:\\C#\\ListaSupermercado\\ListaSupermercado\\ListaSupermercado.csproj",
+      "projectPath": "C:\\C#\\DesafioStone\\Desafio-Stone\\ListaSupermercado\\ListaSupermercado.csproj",
       "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\ListaSupermercado\\ListaSupermercado\\obj\\",
+      "outputPath": "C:\\C#\\DesafioStone\\Desafio-Stone\\ListaSupermercado\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",

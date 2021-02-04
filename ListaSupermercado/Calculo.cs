@@ -96,7 +96,7 @@ namespace ListaSupermercado
                 string key = unic.Key;
                 string value = unic.Value.ToString();
 
-                Console.WriteLine("\n" + key + " Irá pagar => " + value);
+                Console.WriteLine("\n" + key + " Irá pagar => " + value + " Centavos ");
 
             }
 

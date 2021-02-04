@@ -1,0 +1,10 @@
+Batatinha;10;7509
+Cebolinha;5;501
+Frango;7;22500
+Atum;14;5706
+Costeletas;8;5100
+File;9;33076
+Cafe;12;850
+Arroz;15;78500
+Feijao;2;11553
+

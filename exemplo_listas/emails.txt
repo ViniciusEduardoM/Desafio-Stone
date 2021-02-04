@@ -1,0 +1,7 @@
+exemplo@exemplo.com;
+exemplo2@exemplo.com;
+exemplo3@exemplo.com;
+exemplo4@exemplo.com;
+exemplo5@exemplo.com;
+exemplo6@exemplo.com;
+exemplo7@exemplo.com;
