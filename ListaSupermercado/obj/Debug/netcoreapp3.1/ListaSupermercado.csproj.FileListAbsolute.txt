@@ -1,0 +1,13 @@
+C:\C#\ListaSupermercado\ListaSupermercado\bin\Debug\netcoreapp3.1\ListaSupermercado.exe
+C:\C#\ListaSupermercado\ListaSupermercado\bin\Debug\netcoreapp3.1\ListaSupermercado.deps.json
+C:\C#\ListaSupermercado\ListaSupermercado\bin\Debug\netcoreapp3.1\ListaSupermercado.runtimeconfig.json
+C:\C#\ListaSupermercado\ListaSupermercado\bin\Debug\netcoreapp3.1\ListaSupermercado.runtimeconfig.dev.json
+C:\C#\ListaSupermercado\ListaSupermercado\bin\Debug\netcoreapp3.1\ListaSupermercado.dll
+C:\C#\ListaSupermercado\ListaSupermercado\bin\Debug\netcoreapp3.1\ListaSupermercado.pdb
+C:\C#\ListaSupermercado\ListaSupermercado\obj\Debug\netcoreapp3.1\ListaSupermercado.csprojAssemblyReference.cache
+C:\C#\ListaSupermercado\ListaSupermercado\obj\Debug\netcoreapp3.1\ListaSupermercado.AssemblyInfoInputs.cache
+C:\C#\ListaSupermercado\ListaSupermercado\obj\Debug\netcoreapp3.1\ListaSupermercado.AssemblyInfo.cs
+C:\C#\ListaSupermercado\ListaSupermercado\obj\Debug\netcoreapp3.1\ListaSupermercado.csproj.CoreCompileInputs.cache
+C:\C#\ListaSupermercado\ListaSupermercado\obj\Debug\netcoreapp3.1\ListaSupermercado.dll
+C:\C#\ListaSupermercado\ListaSupermercado\obj\Debug\netcoreapp3.1\ListaSupermercado.pdb
+C:\C#\ListaSupermercado\ListaSupermercado\obj\Debug\netcoreapp3.1\ListaSupermercado.genruntimeconfig.cache
