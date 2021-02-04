@@ -27,3 +27,5 @@ Por exemplo "Coloque aqui o caminho da sua lista de produtos: "
 C:\produtos.txt
 "Coloque aqui o caminho da lista de emails: "
 C:\emails.txt
+
+* A pasta exemplo_listas serve para se espelhar na criação do seu banco de dados *
